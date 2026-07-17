@@ -9,7 +9,7 @@ data processing, searching, recursion, and parsing techniques.
 </p>
 
 </div>
----
+
 <div align="center">
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.8%2B-purple?style=for-the-badge&logo=kotlin)
@@ -17,7 +17,7 @@ data processing, searching, recursion, and parsing techniques.
 ![Algorithm](https://img.shields.io/badge/Algorithms-Practice-green?style=for-the-badge)
 
 </div>
----
+
 # 📌 Project Overview
 
 This repository contains two major Kotlin tasks designed to demonstrate practical programming concepts.
@@ -516,7 +516,9 @@ d = maximum nesting depth
 src
 └── main
     └── kotlin
-        └── Main.kt
+        └── TrackerGauntlet.kt
+        └── ContainerParser.kt
+
 ```
 
 ---
@@ -534,7 +536,7 @@ src
 
 <tr>
 <td>JVM</td>
-<td>17+</td>
+<td>21+</td>
 </tr>
 
 </table>
